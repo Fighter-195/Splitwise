@@ -1,0 +1,9 @@
+# Build artifacts
+*.exe
+*.o
+*.obj
+/build/
+
+# Local data files created at runtime
+group.csv
+test.csv
