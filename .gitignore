@@ -7,3 +7,6 @@
 # Local data files created at runtime
 group.csv
 test.csv
+
+# Build log
+build_gui.log
